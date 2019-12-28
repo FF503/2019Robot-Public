@@ -1,0 +1,1 @@
+{"CompBotRamp":{"dt":0.05,"maxAcc":160.0,"maxJerk":5000.0,"maxVel":150.0,"wheelbaseWidth":26.0},"CompBot":{"dt":0.05,"maxAcc":200.0,"maxJerk":5000.0,"maxVel":200.0,"wheelbaseWidth":26.0},"ProgrammingBot":{"dt":0.05,"maxAcc":130.0,"maxJerk":8000.0,"maxVel":140.0,"wheelbaseWidth":27.0},"PracticeBot":{"dt":0.05,"maxAcc":125.0,"maxJerk":9500.0,"maxVel":125.0,"wheelbaseWidth":26.0}}

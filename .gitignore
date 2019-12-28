@@ -1,0 +1,13 @@
+.idea/**
+.gradle/**
+build/**
+bin/**
+*.iml
+.project
+
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride

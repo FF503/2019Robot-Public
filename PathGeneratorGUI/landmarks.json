@@ -1,0 +1,34 @@
+{
+  "landmarks": {
+    "Left HAB Level 1": {
+      "x": 112,
+      "y": 63,
+      "theta": 90
+    },
+    "Right HAB Level 1": {
+      "x": 212,
+      "y": 63,
+      "theta": 90
+    },
+    "Right First Cargo Bay": {
+      "x": 208,
+      "y": 263,
+      "theta": 180
+    },
+    "Right Near Rocket": {
+      "x": 298,
+      "y": 198,
+      "theta": 60
+    },
+    "Right Hatch Reload": {
+      "x": 301,
+      "y": 15,
+      "theta": 90
+    },
+    "Origin": {
+      "x": 0,
+      "y": 0,
+      "theta": 90
+    }
+  }
+}
